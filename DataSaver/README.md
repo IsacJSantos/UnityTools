@@ -13,7 +13,7 @@ No seu script, crie uma instância desta classe e a inicialize com os valores de
 
 ![image](https://user-images.githubusercontent.com/53667441/180339267-dba3c452-6407-41ec-a061-b0f26b03494f.png)
 
-E então chame a função estática "SaveData" da classe "SaveSerial" passando a classe e o nome do arquivo que será salvo:
+E então chame a função estática "SaveData" da classe "SaveSerial" passando o objeto e o nome do arquivo que será salvo:
 
 ![image](https://user-images.githubusercontent.com/53667441/180338714-22d87140-394d-4aeb-aef0-9978cac18bcd.png)
 
