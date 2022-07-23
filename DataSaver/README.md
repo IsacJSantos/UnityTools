@@ -1,7 +1,7 @@
 # Data saver
 A utility to save and recover serializable data.
 
-##Download
+## Download
 You can download the entire package (which contains example files) or just download the "SaveSerial" file.
 
 ## How to use
