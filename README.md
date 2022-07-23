@@ -1,2 +1,2 @@
 # UnityTools
-Alguns utilitários que podem ser usados em diversos projetos
+Some utilities that can be used in different projects
